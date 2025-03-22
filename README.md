@@ -25,4 +25,7 @@ If you've finished the course, please add your name and github account in a Pull
 | Fereshte Mousavi | [Github](https://github.com/Fereshte-Mousavi) |
 | Mehrbanoo Khavari| [Github](https://github.com/mehrbanookh) |
 | Shakiba Taheri | [Github](https://github.com/shakiT8448) | 
-| Fardin Farrokhzad | [Github](https://github.com/fardin-farrokhzad) | 
+| Fardin Farrokhzad | [Github](https://github.com/fardin-farrokhzad) |
+| Fatemeh Emtehani | [Github](https://github.com/fatemeemtehani) |
+
+
